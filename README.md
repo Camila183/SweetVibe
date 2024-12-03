@@ -86,6 +86,7 @@ La tienda fue concebida para ser un espacio donde se pudieran descubrir recetas 
 - *Actualización constante:* Con el blog integrado, SweetVibe mantiene una conexión constante con su audiencia, ofreciendo contenido actualizado sobre tendencias y novedades en el mundo de los postres.
 - Design Thinking: https://www.canva.com/design/DAGVqb6WJng/4g2vu7XUiOKUWWWPqw2apw/edit?utm_content=DAGVqb6WJng&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - Bussines canva: https://www.canva.com/design/DAGVqNXObtI/9Sqdv02BEBa6_QAbdoQjIQ/edit?utm_content=DAGVqNXObtI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+- Lean Startup: https://docs.google.com/drawings/d/1aHxvqjCb_iBs-zSf3Kv92qGDxYMnRFhURVYlOmNS2i0/edit?usp=sharing
 
 ---
 
